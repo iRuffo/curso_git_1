@@ -1,0 +1,19 @@
+Resumo das aulas:
+
+Comandos - sempre "git" na frente
+git alguma coisa
+
+Alguns comandos:
+
+git status - para saber como está a situação dos arquivos do projeto (se já foram adicionados, se já estão commitados, se foram modificados...)
+git add - para adicionar novos arquivos para o projeto (não necessário para arquivos que já existiam e apenas foram modificados) 
+git commit - para "commitar" um arquivo modificado ou um arquivo recém adicionado (preparar para enviar para o repositório no github)
+git pull - para enviar os arquivos commitados para o github (envia apenas os arquivos commitados, ou seja, que foram modificados ou criados)
+git clone - para trazer os arquivos de um repositório do github para a sua máquina. Para isso, é necessário entrar no repositório desejado, ir em "CODE" e copiar o link.
+exemplo: git clone o_link_copiado_do_seu_git
+git push - depois de já ter o acesso ao repositório, o push tem a função de trazer as ultimas alterações feitas por outro desenvolvedor, ou por você mesmo em um 
+outro computador.
+
+ls - para saber as pastas que você deseja acessar 
+cd - para acessar as pastas 
+
