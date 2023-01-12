@@ -25,6 +25,7 @@ git pull - depois de já ter o acesso ao repositório, o pull tem a função de 
 outro computador.
 git rm - deletar um arquivo do projeto 
 git log - para ter acesso a todas as alterações do projeto (todos os commits)
+git mv - para trocar um arquivo de pasta ou renomeá-lo. Basta dar o comando git mv nome.do.arquivo nova.pasta/novo.nome ou somente novo.nome ou somente nova.pasta/mesmo.nome
 
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
