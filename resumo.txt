@@ -27,6 +27,8 @@ git rm - deletar um arquivo do projeto
 git log - para ter acesso a todas as alterações do projeto (todos os commits)
 git mv - para trocar um arquivo de pasta ou renomeá-lo. Basta dar o comando git mv nome.do.arquivo nova.pasta/novo.nome ou somente novo.nome ou somente nova.pasta/mesmo.nome
 git checkout - para voltar um arquivo a seu estado original (ao estado inicial que está no github)
+gitignore - para ignorar arquivos, necessário criar um arquivo na pasta do projeto com a nomeclatura .gitignore e dentro desse arquivo, escrever o nome de todas as pasta/arquivos
+que desejamos ignorar. Esse arquivo .gitignore deve ser adicionado ao repositório com o git add e ser commitado, antes de ser colocado os arquivos a serem ignorados dentro dele.
 
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
