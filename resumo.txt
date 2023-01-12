@@ -40,7 +40,7 @@ git checkout - para voltar um arquivo a seu estado original (ao estado inicial q
 gitignore - para ignorar arquivos, necessário criar um arquivo na pasta do projeto com a nomeclatura .gitignore e dentro desse arquivo, escrever o nome de todas as pasta/arquivos
 que desejamos ignorar. Esse arquivo .gitignore deve ser adicionado ao repositório com o git add e ser commitado, antes de ser colocado os arquivos a serem ignorados dentro dele.
 
-git reset --hard  - é um comando pra resetar todas as alterações feitas no código, mesmo as já commitadas (desde que não tenham sido enviadas -pull-)
+git reset --hard  - é um comando pra resetar todas as alterações feitas no código, mesmo as já commitadas (desde que não tenham sido enviadas -push-)
 
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
