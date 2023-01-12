@@ -8,6 +8,7 @@ git branch -m main
 git remote add origin -código gerado na criação do repositório do github-
 git push -u origin main
 
+finish
 ----------------------------------------------------------------------------------------
 Comandos - sempre "git" na frente
 git alguma coisa
@@ -23,6 +24,7 @@ exemplo: git clone o_link_copiado_do_seu_git
 git pull - depois de já ter o acesso ao repositório, o pull tem a função de trazer as ultimas alterações feitas por outro desenvolvedor, ou por você mesmo em um 
 outro computador.
 git rm - deletar um arquivo do projeto 
+git log - para ter acesso a todas as alterações do projeto (todos os commits)
 
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
