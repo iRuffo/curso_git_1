@@ -57,7 +57,13 @@ E sempre que for criar um novo branch, sempre sair da main, depois de atualizá-
 
 git merge - unir branchs, é utilizado para enviar as novas funcionalidades em um branch a parte, para o branch main ou outro branch. 
 
-git stash - serve para trazer ao estado original as alterações que foram feitas em algum branch.
+git stash - serve para trazer ao estado original as alterações que foram feitas em algum branch, e as alterações "deletadas" ficam em uma "lixeira" que podem ser recuperadas depois.
+
+git stash list - mostra as stashs feitas, e os números de cada uma
+
+git stash apply número_da_stash - recupera a stash
+
+git stash show -p número_da_stash - mostra as alterações que foram feitas com aquela stash
 
 
 ls - para saber as pastas que você deseja acessar 
