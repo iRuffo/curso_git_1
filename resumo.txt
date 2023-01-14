@@ -65,6 +65,14 @@ git stash apply número_da_stash - recupera a stash
 
 git stash show -p número_da_stash - mostra as alterações que foram feitas com aquela stash
 
+git stash clear - para remover todas as stashs
+
+git stash drop nome_da_stash - para remover uma stash específica
+
+git tag -a nome_da_tag_ -m mensagem - para criar uma tag, ou seja, um ponto do projeto. Tudo que foi commitado antes da criação dessa tag, estará dentro deste ponto. Após a 
+dessa tag, tudo que foi criado e commitado será colocado em uma nova tag (em uma nova versão). 
+
+git show nome_da_tag - vai pra versão da tag desejada
 
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
