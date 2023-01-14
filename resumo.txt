@@ -53,6 +53,7 @@ git checkout -b nome_de_um_novo_branch - muda para um novo branch e cria o branc
 git checkout nome_do_branch - só altera o branch.
 Obs.: sempre que for mudar um branch, verificar se há arquivos a serem commitados, pois se trocar de branch com esses arquivos a serem commitados, as alterações serão levadas para
 o novo branch criado.
+E sempre que for criar um novo branch, sempre sair da main, depois de atualizá-la. 
 
 
 ls - para saber as pastas que você deseja acessar 
