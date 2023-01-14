@@ -42,6 +42,13 @@ que desejamos ignorar. Esse arquivo .gitignore deve ser adicionado ao repositór
 
 git reset --hard  - é um comando pra resetar todas as alterações feitas no código, mesmo as já commitadas (desde que não tenham sido enviadas -push-)
 
+git branch - pra identificar os branchs existentes
+
+git branch nome_do_branch - para criar um novo branch
+
+git branch -d nome_do_branch - para deletar algum branch
+
+
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
 
