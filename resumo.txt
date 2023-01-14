@@ -55,6 +55,10 @@ Obs.: sempre que for mudar um branch, verificar se há arquivos a serem commitad
 o novo branch criado.
 E sempre que for criar um novo branch, sempre sair da main, depois de atualizá-la. 
 
+git merge - unir branchs, é utilizado para enviar as novas funcionalidades em um branch a parte, para o branch main ou outro branch. 
+
+git stash - serve para trazer ao estado original as alterações que foram feitas em algum branch.
+
 
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
