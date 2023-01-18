@@ -76,6 +76,10 @@ git show nome_da_tag - vai pra versão da tag desejada
 
 git fetch -  para encontrar um branch que outro desenvolvedor está trabalhando no projeto.
 
+git submodule _link_do_submodule pasta_que_deseja_por_o_submodulo - para trazer um submodulo para o projeto (por exemplo uma biblioteca externa ao projeto para o projeto)
+
+git push --recurse-submodules=on-demand - para fazer push no submodulo
+
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
 
