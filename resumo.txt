@@ -80,6 +80,8 @@ git submodule _link_do_submodule pasta_que_deseja_por_o_submodulo - para trazer 
 
 git push --recurse-submodules=on-demand - para fazer push no submodulo
 
+Q para sair do terminal end
+
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
 
