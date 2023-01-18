@@ -76,6 +76,12 @@ git show nome_da_tag - vai pra versão da tag desejada
 
 git fetch -  para encontrar um branch que outro desenvolvedor está trabalhando no projeto.
 
+git clean - para excluir arquivos untrackeds (não adicionados), caso dê erro é só dar git clean -f (force)
+
+git gc - para otimizar o repositório (exclui arquivo desnecessário)
+
+git fsck - verifica se há arquivos corrompidos no repositório
+
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
 
