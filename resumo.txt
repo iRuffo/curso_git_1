@@ -82,6 +82,8 @@ git gc - para otimizar o repositório (exclui arquivo desnecessário)
 
 git fsck - verifica se há arquivos corrompidos no repositório
 
+git archive --format zip --output nome_da_pasta_que_desejar.zip main (o branch desejado)
+
 ls - para saber as pastas que você deseja acessar 
 cd - para acessar as pastas 
 
